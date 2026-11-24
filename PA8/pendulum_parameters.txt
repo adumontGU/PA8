@@ -1,0 +1,7 @@
+initial_angle_degrees = 30.0
+length = 1.0
+gravity = 9.81
+friction_coefficient = 0.999
+time_step = 0.01
+total_time = 120.0
+angular_velocity_threshold = 0.02

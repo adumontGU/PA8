@@ -1,0 +1,17 @@
+Damped Pendulum Simulation Summary
+==================================
+Input parameters:
+  initial_angle_degrees: 30.0
+  length: 1.0
+  gravity: 9.81
+  friction_coefficient: 0.999
+  time_step: 0.01
+  total_time: 120.0
+  angular_velocity_threshold: 0.02
+
+Results:
+  Time to threshold: 88.93 s
+  Equilibrium crossings: 89
+  Complete swings: 44
+  Final simulation time: 88.93 s
+  Stopping reason: angular velocity at an equilibrium crossing reached the threshold
